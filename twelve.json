@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "",
+    "datetime": 1657909980,
+    "size": 1511084361,
+    "url": "",
+    "filehash": "",
+    "id": "",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "NRanjan-17",
+            "name": "NRanjan-17"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://download.pixelexperience.org/",
+    "news_url": "https://t.me/PixelExperience",
+    "forum_url": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-13-03-2022.4415063/"
+}
