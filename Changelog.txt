@@ -1,0 +1,22 @@
+Changelog
+
+PixelExperience August Release 
+Build Date: 19/08/2022
+19/08/2022 Update
+
+* August 2022 Security Patch
+* mido: Disable ALAC support
+* mido: rootdir: Use default allocstall threshold on k4.9
+* mido : Correct console config property
+* mido: configs: Import gpfspath_oem_config.xml
+* mido: add IQccvndhal from LA.UM.9.6.3.r1-06200-89xx.0
+* mido: parts: dirac: Update vector icons to MD2 versions
+* mido: add IQccvndhal from LA.UM.9.6.3.r1-06200-89xx.0
+* mido: Tune zram & swappinness
+* mido: update camera to v45
+* mido: Enable SIP based VoIP feature
+* mido: Update GPS config for S
+* mido: Update GPS from LA.UM.9.6.3.r1-06200-89xx.0
+* mido: dirac: add dirac logo
+* mido: parts: Translation updates
+* Upstream Kernel to 4.9.324~hyper
