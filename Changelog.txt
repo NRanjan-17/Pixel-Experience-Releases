@@ -20,3 +20,5 @@ Build Date: 19/08/2022
 * mido: dirac: add dirac logo
 * mido: parts: Translation updates
 * Upstream Kernel to 4.9.324~hyper
+
+Note -> If fingerprint not working after updating through dirty flash just go into the settings and register your fingerprint again.(For Normal and Plus Both)
