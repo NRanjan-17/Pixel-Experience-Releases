@@ -22,3 +22,30 @@ Build Date: 19/08/2022
 * Upstream Kernel to 4.9.324~hyper
 
 Note -> If fingerprint not working after updating through dirty flash just go into the settings and register your fingerprint again.(For Normal and Plus Both)
+
+PixelExperience July Release 
+Build Date: 16/07/2022
+16/07/2022 Update
+
+- July Patch 
+- OK Google fixed
+- Forced disabled iorapd
+- Remove activity_recognition libs
+- Update GPS config for S
+- Inherit several Android Go configurations
+- fix deprecated power profile items
+- Upstream kernel to 4.9.319~hyper
+
+PixelExperience June Release 
+Build Date: 12/06/2022
+12/06/2022 Update
+
+- June Security Patch
+- Increase BootCompletedReceiver priority (Helps to restore Xiaomi Parts as soon as device boots up)
+- Optimise dex flags
+- Ok Google should work now
+- Removed Google Camera due to multiple issues
+- Added GrapheneOS Camer
+- Added Smooth Scrolling props
+- Disable slow blur effect to avoid laggish blur effect
+- Upstream kernel to 4.9.317~hyper
