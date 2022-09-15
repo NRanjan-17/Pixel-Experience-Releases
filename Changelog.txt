@@ -1,5 +1,25 @@
 Changelog
 
+PixelExperience September Release 
+Build Date: 15/09/2022
+15/09/2022 Update
+
+* September 2022 Security Patch 
+* mido: Update camera to v48
+* mido: Disable zram writeback
+* mido: init: Extend config_avoidGfxAccel for 3GB variants
+* mido: parts: Add vibration intensity control
+* mido: [SQUASH] Update Audio HAL from LA.UM.10.6.2.r1-02300-89xx.0
+* mido: Drop unused 32bit blobs
+* mido: audio feature: Disable incall_music support
+* init: Limit cpufreq rate via down-/up_rate_limit_us knobs.
+* perf:increase touch boost duration
+* mido: Enable freeform windows
+* mido: Update fqnames for Data factory HAL.
+* mido: Drop default DRM service
+* mido: parts: Update translations
+* mido: Upstream kernel to 4.9.326~hyper
+
 PixelExperience August Release 
 Build Date: 19/08/2022
 19/08/2022 Update
