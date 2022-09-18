@@ -1,0 +1,7 @@
+Changelog:
+Build Date:18/09/2022
+
+* Initial PixelExperience BETA Android 13 Build
+* September 2022 Security Patch
+* Selinux Enforcing 
+* Basic stuff working 
