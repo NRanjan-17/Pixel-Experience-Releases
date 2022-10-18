@@ -1,0 +1,11 @@
+- October 2022 Security Patch
+- Synced with source as of October 18th, 2022
+- Enable Button Backlight
+- Added Button Settings
+- IPA: Use legacy IPA implementation by identifying as UM 3.18 platform
+- mido: Update aptX from coral
+- mido: Update DRM Widevine from Coral
+- mido: Update camera to v52
+- mido: Update Audio HIDL to 7.1
+- Updated Vendor to September 2022
+- Updated kernel to 4.9.330~hyper-v2.0
