@@ -1,0 +1,32 @@
+**Changelog:** 
+
+- Initial Normal and Plus Stable Release
+- Android 13
+- November 2022 Security Patch 
+- Added Back Key Customization
+- Switched to new Aperture Camera
+- LiveDisplay (color profile, display mode, reading mode, color calibration)
+- Updated translations
+- Added Ripple Effect (Plus)
+- Added Face Unlock 
+- Updated translations
+- StatusBar shortcuts (Plus)
+- Rotation settings (Plus)
+- Lock screen display (music visualizer, power menu) (Plus)
+- Per-app volume settings (Plus)
+- Increasing ring volume (Plus)
+- Adaptive Playback (Plus)
+- Different gestures (Plus)
+- Power and Volume button customisations (Plus)
+- Network traffic monitor (Plus)
+- Brightness (brightness slider, auto brightness, brightness control) (Plus)
+- Quick Pulldown (Plus)
+- Security Settings (Plus)
+- More QS tiles (Plus)
+- Scramble Pin Option (Plus)
+
+**Note:**
+- Clean flash Recommend 
+- Decrypted Build
+- Use Regular Flash method
+- Recommend Recovery: [Official TWRP](https://dl.twrp.me/mido/)
