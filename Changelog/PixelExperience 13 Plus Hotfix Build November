@@ -1,0 +1,10 @@
+Changelog: 
+- Fixed Auto Brightness issues
+- Fixed Ripple Effect disable toggle
+
+Note: 
+- Non encrypted build
+- Normal version has no issues. So, get it from previous Release 
+- If you are coming from PixelExperience 12 or PixelExperience 13 BETA then clean flash is recommended 
+- If coming from PixelExperience 13 Plus Stable than you can dirty flash this build 
+- Recommended recovery: [Official TWRP](https://dl.twrp.me/mido/)
