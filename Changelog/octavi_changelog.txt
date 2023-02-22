@@ -1,0 +1,35 @@
+# OctaviOS Changelog
+
+Notes:
+- Rom now Encrypted by default
+- Use updated twrp: https://sourceforge.net/projects/nranjan-17/files/FBE%20Recovery/twrp_3.7.0_12-0-mido.img/download
+- Use this Guide to flash rom Encrypted: https://raw.githubusercontent.com/NRanjan-17/Pixel-Experience-Releases/main/install_guide.md
+- DFE: https://sourceforge.net/projects/nranjan-17/files/BETA/Disable_Dm-Verity_ForceEncrypt.zip/download
+- DFE Method: 
+      * Coming From Decrypted Rom:
+         - Wipe System,Data,Cache and Vendor
+         - Flash Rom
+         - Flash Gapps (For Vanilla)
+         - Flash DFE
+         - Boot
+      
+      * Coming from Encrypted Rom:
+         - Wipe System,Data,Cache and Vendor
+         - Flash ROM
+         - FLash Gapps (For Vanilla)
+         - Flash DFE
+         - Format Data
+         - Boot
+         
+OctaviOS 4.1
+Build Date: 20-02-2022
+
+Changelog:
+- Initial Build
+- Feb 2023 Security Patch
+- Added f2fs support for cache and data
+- Disable enhanced sco connection via sysprop
+- Drop deprecated ro.qualcomm.cabl prop
+- Switch to jemalloc for libc
+- Add performance hint definition for excessive rendering
+- Kernel Update
