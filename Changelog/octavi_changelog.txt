@@ -33,3 +33,16 @@ Changelog:
 - Switch to jemalloc for libc
 - Add performance hint definition for excessive rendering
 - Kernel Update
+
+OctaviOS 4.2
+Build Date: 04-04-2022
+
+Changelog:
+- March 2023 /QPR 2 Release
+- Build libstdc++.so from source
+- Remove aptX(HD) encoder shared libs
+- Disable Bluetooth APCF Extended features
+- Kernel Update to v3.1
+- Enable ro.hwui.render_ahead
+- Fixed Bootloop for 3GB Users
+- Fixed Hotspot
