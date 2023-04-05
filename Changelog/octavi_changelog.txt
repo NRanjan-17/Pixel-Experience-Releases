@@ -46,3 +46,7 @@ Changelog:
 - Enable ro.hwui.render_ahead
 - Fixed Bootloop for 3GB Users
 - Fixed Hotspot
+
+Download:
+Gapps: https://devuploads.com/w9y09xlabl96
+Vanilla: https://devuploads.com/ig1ttjikz540
