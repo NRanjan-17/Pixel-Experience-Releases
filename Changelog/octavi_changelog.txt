@@ -2,6 +2,7 @@
 
 Notes:
 - Rom now Encrypted by default
+- NON - RETROFIT Build
 - Use updated twrp: https://sourceforge.net/projects/nranjan-17/files/FBE%20Recovery/twrp_3.7.0_12-0-mido.img/download
 - Use this Guide to flash rom Encrypted: https://raw.githubusercontent.com/NRanjan-17/Pixel-Experience-Releases/main/install_guide.md
 - DFE: https://sourceforge.net/projects/nranjan-17/files/BETA/Disable_Dm-Verity_ForceEncrypt.zip/download
