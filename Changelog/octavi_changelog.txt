@@ -67,3 +67,17 @@ Changelog:
 - Update clearkey plugin to drm HAL v1.4
 - Switch to config_screenBrightnessSettingMinimumFloat
 - Drop config_powerDecoupleInteractiveModeFromDisplay 
+
+OctaviOS 4.5
+Build Date: 30-06-2022
+
+Changelog:
+- June 2023 Update
+- Based on QPR 3
+- Set config_criticalBatteryWarningLevel threshold to 8
+- gralloc: Fix Compilation errors
+- Revert to normal wifi service
+- Enable SurfaceFlinger Cache by default 
+- Switch zRAM compression alg to zstd
+- gps: Adding Xtra Version Check
+- Updated Kernel to v3.2.1
